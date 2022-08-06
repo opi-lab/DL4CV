@@ -18,3 +18,5 @@ author:
 google_analytics: 'UA-81909010-1'
 
 markdown: kramdown
+
+theme: jekyll-theme-cayman
