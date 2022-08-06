@@ -1,0 +1,6 @@
+{
+  "name": "Deep Learning for Computer Vision",
+  "tagline": "Lecture notes on the graduate course Deep Learning for Computer Vision @ Universidad Tecnológica de Bolívar",
+  "body": "# Deep Learning for Computer Vision\r\n\r\n### Second semester 2022\r\n\r\nAndrés Marrugo, PhD\r\n*Universidad Tecnológica de Bolívar*\r\n\r\n##  Aims and Scope\r\n\r\nThis semester course will provide a practical introduction to neural networks and deep learning. Covered topics covered will include: linear classifiers; multilayer neural networks; stochastic gradient descent and backpropagation; convolutional neural networks and their applications to computer vision tasks such as object detection and dense image labeling. Course work will consist of programming tasks in Python.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
