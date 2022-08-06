@@ -12,8 +12,6 @@ Andrés Marrugo, PhD
 
 ##  Aims and Scope
 
-This semester course is an introduction to Deep Learning for Computer Vision . It is aimed at graduate students in the Faculty of Engineering. We will focus on the practical and theoretical aspects of techniques in optical metrology.
-
 This semester course will provide a practical introduction to neural networks and deep learning. Covered topics covered will include: linear classifiers; multilayer neural networks; stochastic gradient descent and backpropagation; convolutional neural networks and their applications to computer vision tasks such as object detection and dense image labeling. Course work will consist of programming tasks in Python.
 
 At the end of the lectures, one would be able to:
