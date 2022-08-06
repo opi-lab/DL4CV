@@ -59,7 +59,7 @@ This website will be updated as we go along.
 
 ### Lecture 1: Introduction
 
-[Lecture 1 slides]({{site.url}}/lectures/lec01_intro.pdf)
+[Lecture 1 slides]({{site.url}}lectures/lec01_intro.pdf)
 
 #### Additional Reading
 
@@ -70,7 +70,7 @@ This website will be updated as we go along.
 
 In this lecture we cover the general aspects of machine learning.
 
-[Lecture 2 slides]({{site.url}}/lectures/lec02_ml_intro.pdf)
+[Lecture 2 slides]({{site.url}}lectures/lec02_ml_intro.pdf)
 
 #### Recommended Readings
 
