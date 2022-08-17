@@ -66,7 +66,7 @@ This website will be updated as we go along.
 
 ### Lecture 2: Introduction to machine learning
 
-In this lecture we cover the general aspects of machine learning.
+In this lecture, we cover the general aspects of machine learning.
 
 [Lecture 2 slides]({{site.url}}lectures/lec02_ml_intro.pdf)
 
@@ -74,3 +74,8 @@ In this lecture we cover the general aspects of machine learning.
 
 - [Chapter 5 - I. Goodfellow, Y. Bengio and A. Courville](https://www.deeplearningbook.org)
 
+### Lecture 3: Linear classifiers
+
+In this two-part lecture, we cover linear classifiers.
+
+[Lecture 3 slides]({{site.url}}lectures/lec03_linear_part1.pdf)
