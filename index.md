@@ -78,4 +78,29 @@ In this lecture, we cover the general aspects of machine learning.
 
 In this two-part lecture, we cover linear classifiers.
 
-[Lecture 3 slides]({{site.url}}lectures/lec03_linear_part1.pdf)
+- [Lecture 3 slides]({{site.url}}lectures/lec03_linear_part1.pdf)
+
+### Lecture 4: Linear classifiers
+
+In this two-part lecture, we cover linear classifiers.
+
+- [Lecture 4 slides]({{site.url}}lectures/lec04_linear_part2.pdf)
+
+### In-class activity
+
+We will be working out the code from two chapters of the book Deep Learning for Computer Vision by Adrian Rosenbrock. Download the pdfs and launch the notebooks.
+
+#### Book chapters
+
+- [Chapter 8]({{site.url}}pdfs/parameterized-learning.pdf)
+- [Chapter 9]({{site.url}}pdfs/optimization-methods-regularization.pdf)
+
+#### Notebooks
+
+- [Parameterized learning example](https://github.com/opi-lab/DL4CV/blob/main/notebooks/parameterized-learning.ipynb)
+- [Optimization methods](https://github.com/opi-lab/DL4CV/blob/main/notebooks/optimization_examples.ipynb)
+
+#### What to submit
+Upload the two notebooks with corresponding annotations and output in html format. 
+
+- [Upload link](https://www.dropbox.com/request/LJt4Lvi0MHRhzUxNIO2z)
