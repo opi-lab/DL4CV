@@ -103,4 +103,4 @@ We will be working out the code from two chapters of the book Deep Learning for 
 #### What to submit
 Upload the two notebooks with corresponding annotations and output in html format. 
 
-- [Upload link](https://www.dropbox.com/request/LJt4Lvi0MHRhzUxNIO2z)
+- [Upload link](https://www.dropbox.com/request/LJt4Lvi0MHRhzUxNIO2z) 
