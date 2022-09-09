@@ -103,4 +103,15 @@ We will be working out the code from two chapters of the book Deep Learning for 
 #### What to submit
 Upload the two notebooks with corresponding annotations and output in html format. 
 
-- [Upload link](https://www.dropbox.com/request/LJt4Lvi0MHRhzUxNIO2z) 
+- [Upload link](https://www.dropbox.com/request/LJt4Lvi0MHRhzUxNIO2z)
+
+### In-class activity
+
+We will be implementing our first neural network. It is Logistic Regression with a Neural Network mindset based on the course by Andrew Ng. Launch the notebook in Colab. 
+
+ - [Notebook](https://github.com/opi-lab/DL4CV/blob/main/notebooks/logistic_regression_example.ipynb)
+
+#### What to submit
+Upload the notebook with corresponding annotations and output in HTML format. 
+
+- [Upload link](https://www.dropbox.com/request/TbGpgVmLv21E8CNtmpKb)
