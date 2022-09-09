@@ -105,13 +105,32 @@ Upload the two notebooks with corresponding annotations and output in html forma
 
 - [Upload link](https://www.dropbox.com/request/LJt4Lvi0MHRhzUxNIO2z)
 
+### Lecture 5: Nonlinear classifiers
+
+In this lecture, we cover nonlinear classifiers: the “Shallow” approach using Kernel support vector machines (SVMs) and the “Deep” approach using Multi-layer neural networks. We also cover how to control classifier complexity, hyperparameters, bias-variance tradeoff, overfitting and underfitting, and hyperparameter search in practice.
+
+- [Lecture 5 slides]({{site.url}}lectures/lec05_nonlinear_classifiers.pdf)
+
 ### In-class activity
 
 We will be implementing our first neural network. It is Logistic Regression with a Neural Network mindset based on the course by Andrew Ng. Launch the notebook in Colab. 
 
  - [Notebook](https://github.com/opi-lab/DL4CV/blob/main/notebooks/logistic_regression_example.ipynb)
+ - [Logistic regression slides](http://cs230.stanford.edu/files/C1M2.pdf)
 
 #### What to submit
 Upload the notebook with corresponding annotations and output in HTML format. 
 
 - [Upload link](https://www.dropbox.com/request/TbGpgVmLv21E8CNtmpKb)
+
+### Lecture 6: Backpropagation
+
+In this lecture, we cover the backpropagation algorithm used to update the network parameters.
+
+- [Lecture 6 slides]({{site.url}}lectures/lec06_backprop.pdf)
+
+### Lecture 7: Convolutional neural networks
+
+In this lecture, we take on the fundamentals of convolutional neural networks (CNNs).
+
+- [Lecture 7 slides]({{site.url}}lectures/lec07_cnn.pdf)
