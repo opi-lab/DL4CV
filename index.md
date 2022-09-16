@@ -134,3 +134,8 @@ In this lecture, we cover the backpropagation algorithm used to update the netwo
 In this lecture, we take on the fundamentals of convolutional neural networks (CNNs).
 
 - [Lecture 7 slides]({{site.url}}lectures/lec07_cnn.pdf)
+
+#### Recommended Readings
+
+- [Chapter 9 - I. Goodfellow, Y. Bengio and A. Courville](https://www.deeplearningbook.org)
+- [Chapter 11 - CNNs by Adrian Rosenbrock ]({{site.url}}pdfs/11-cnns.pdf)
