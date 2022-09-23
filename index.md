@@ -139,3 +139,21 @@ In this lecture, we take on the fundamentals of convolutional neural networks (C
 
 - [Chapter 9 - I. Goodfellow, Y. Bengio and A. Courville](https://www.deeplearningbook.org)
 - [Chapter 11 - CNNs by Adrian Rosenbrock ]({{site.url}}pdfs/11-cnns.pdf)
+
+### In-class activity - My first CNN
+
+We will be working out the code from two chapters of the book Deep Learning for Computer Vision by Adrian Rosenbrock. Download the pdfs and launch the notebooks.
+
+#### Book chapters
+
+- [Chapters 12 and 13]({{site.url}}pdfs/12-13-train-load-cnn.pdf)
+
+#### Notebooks
+
+- [Shallownet animals](https://github.com/opi-lab/DL4CV/blob/main/notebooks/shallownet_animals_.ipynb)
+- [Shallownet on CIFAR-10](https://github.com/opi-lab/DL4CV/blob/main/notebooks/shallownet_cifar10_.ipynb)
+
+#### What to submit
+Upload the two notebooks with corresponding annotations and output in html format. 
+
+- [Upload link](https://www.dropbox.com/request/LJt4Lvi0MHRhzUxNIO2z)
