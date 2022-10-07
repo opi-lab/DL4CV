@@ -161,3 +161,12 @@ Upload the two notebooks with corresponding annotations and output in html forma
 ### Classifier metrics
 
 - [Slides]({{site.url}}pdfs/Lecture-06-Metrics.pdf)
+
+### <mark>Projects</mark>
+
+In this course, you are required to complete a short project, similar to the assignments, but you are free to choose the approach and the implementation. You will work in teams of two and you will deliver a project report in the IEEE paper format and a 12-minute presentation. Also, upload a ZIP file with the code and Jupyter notebooks.
+
+**The project is due December 2.**
+
+- [Project proposals and guidelines](projects)
+- [Upload link](https://www.dropbox.com/request/f0j58PFi8RDmwGZd7Yai)
