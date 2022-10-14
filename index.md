@@ -185,3 +185,8 @@ We will be working out the code from chapter 15 of the book Deep Learning for Co
 #### Book chapters
 
 - [Chapter 15]({{site.url}}pdfs/15-vggnet.pdf)
+
+#### What to submit
+Upload the notebook with corresponding annotations and output in html format. 
+
+- [Upload link](https://www.dropbox.com/request/2K87XkJF8WykIg7Jspqt)
