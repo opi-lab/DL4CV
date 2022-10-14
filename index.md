@@ -182,6 +182,10 @@ In this lecture, we discuss the basics of neural network training.
 
 We will be working out the code from chapter 15 of the book Deep Learning for Computer Vision by Adrian Rosenbrock. Download the pdf and launch the notebooks.
 
+#### Notebook
+
+- [Notebook](https://github.com/opi-lab/DL4CV/blob/main/notebooks/miniVGGNet_.ipynb)
+
 #### Book chapters
 
 - [Chapter 15]({{site.url}}pdfs/15-vggnet.pdf)
