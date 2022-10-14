@@ -170,3 +170,18 @@ In this course, you are required to complete a short project, similar to the ass
 
 - [Project proposals and guidelines](projects)
 - [Upload link](https://www.dropbox.com/request/f0j58PFi8RDmwGZd7Yai)
+
+
+### Lecture 8: Neural network training
+
+In this lecture, we discuss the basics of neural network training.
+
+- [Lecture 8 slides]({{site.url}}lectures/lec08_training.pdf)
+
+### In-class activity - Implement VGGNet
+
+We will be working out the code from chapter 15 of the book Deep Learning for Computer Vision by Adrian Rosenbrock. Download the pdf and launch the notebooks.
+
+#### Book chapters
+
+- [Chapter 15]({{site.url}}pdfs/15-vggnet.pdf)
